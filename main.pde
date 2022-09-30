@@ -1,8 +1,6 @@
 int n;
 
 float maxSpeed;
-float maxForce;
-float rCoef;
 
 Agent[] agents;
 
@@ -24,8 +22,6 @@ void setup() {
   
   n = 1000;
   maxSpeed = 4;
-  maxForce = 1;
-  rCoef = 1;
   
   sensorOffsetDst = 20;
   sensorAngleSpacing = 45;
