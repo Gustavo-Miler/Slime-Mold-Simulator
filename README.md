@@ -13,6 +13,6 @@ width, height, scale: change the window size and grid size
 n: number of agents
 maxSpeed: max speed of agents
 eCoef: speed which pheromone evaporation occurs
-sensorOffsetDst, sensorAngleSpacing, sensorSize, turnCoef: pheromone train sensoring
+sensorOffsetDst, sensorAngleSpacing, sensorSize, turnCoef: pheromone trail sensoring
 
 
